@@ -5,6 +5,7 @@ using UnityEngine.Audio;
 
 public class MixLevels : MonoBehaviour {
 
+	// Public Audio Mixer
 	public AudioMixer masterMix;
 	 
 
